@@ -1,1 +1,1 @@
-alias nano='nano -$lWaiT 4'
+alias nano='nano --softwrap -lWai -T 4'
